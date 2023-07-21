@@ -20,7 +20,7 @@ a) Declaração das classes, métodos e relações para definir cada objeto exis
 b) Utilização de containers e iterators para gerir os dados onde necessário 
 
 c) Definição detalhada dos métodos necessários para (ficheiros .cpp):
-- Considerando o tipo “maduro tinto”, calcule a média de volume de álcool dos vinhos deste tipo, e grave no ficheiro “suaves.txt” todos os nomes e respetivos volumes de álcool dos vinhos que se encontram abaixo dessa média; (2 pontos)
+- Considerando o tipo “maduro tinto”, calcule a média de volume de álcool dos vinhos deste tipo, e grave no ficheiro “suaves.txt” todos os nomes e respetivos volumes de álcool dos vinhos que se encontram abaixo dessa média; 
 - Encontre todas as adegas que produzem vinhos que devem acompanhar pratos de peixe, e escreva no ecrã o URL da respetiva página web; 
 Não se esqueça de incluir os #includes necessários nos ficheiros .h.
  
