@@ -35,7 +35,7 @@ Para compilar colocamos na pasta principal o ficheiro CMakeLists e no terminal e
 
 <br>
 
-<img src="tela.jpg" >
+<img width="400" src="tela.jpg" >
 
 
 🔧 Tecnologias utilizadas:
