@@ -8,6 +8,8 @@ efolio Global de Programação por objetos - 21093 da UAb - Recurso
 </p>
 
 
+Fica aqui a minha versão para mostrar aos colegas que foram a recurso, as boas practicas na linguangem C++17
+
 📌 Programa Wine
 ------------------
 As adegas podem produzir uma ou mais marcas de vinho, podendo ser de tipos diferentes. As adegas são caracterizadas por nome, localidade, país e página web, enquanto os vinhos têm nome, tipo, lista de castas, lista de tipos de refeições que devem acompanhar e volume de álcool.
