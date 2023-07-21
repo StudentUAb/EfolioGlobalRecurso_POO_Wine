@@ -36,6 +36,7 @@ Para compilar colocamos na pasta principal o ficheiro CMakeLists e no terminal e
 <strong>make</strong><br>
 
 <br>
+Para executar segue o print: 
 
 <img width="400" src="tela.jpg" >
 
