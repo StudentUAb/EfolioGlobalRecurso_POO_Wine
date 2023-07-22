@@ -17,7 +17,7 @@ double calcularMediaTipo(std::vector<Vinho> vinhos, const std::string& tipo) {
 }
 
 void gravarSuaves(const std::vector<Vinho> &vinhos, double media, const std::string &nomeFicheiro) {
-    std::ofstream file(nomeFicheiro, std::ios::app);
+    std::ofstream file(nomeFicheiro); //std::ofstream file(nomeFicheiro, std::ios::app); assim fica com appen para adicionar ao ficheiro suaaves sem remover os registros anteriores.
     if (file.is_open()) {
         for (auto &vinho : vinhos) {
             if (vinho.getVolAlcool() < media) {
